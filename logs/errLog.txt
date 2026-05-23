@@ -1,0 +1,31 @@
+20260521	17:50:37	972605f8-6991-42a3-94a8-b324b58e22a3	Error: Not allowed by CORS
+20260522	09:42:11	6f2c21bb-0c95-4583-9217-55708e8ddcdf	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260522	13:03:21	b390ac51-82ca-490a-9fa6-012b8b5573ef	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260522	13:04:00	b1dc942d-2466-4684-aa4f-9a58adb8dc3f	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260522	13:04:00	a6bbb593-9c25-40c7-9dc3-26c81bb2d7a0	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260522	13:04:27	307ffaba-e221-40d9-8d61-d7abb90cbafc	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260522	15:30:39	e5ec8ba1-b333-4659-a6e0-b7a5b1048019	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260522	20:06:14	1698f8cb-2109-444f-8dc7-a36c192e4dbc	TypeError: rolesArray.include is not a function
+20260522	20:08:51	3a591b7c-2bf8-4c4f-957e-d49bbf9040ac	TypeError: rolesArray.include is not a function
+20260522	20:08:52	0c2e7665-be4d-4534-99e1-2c7088bd1506	TypeError: rolesArray.include is not a function
+20260522	20:08:52	7da5cb56-945c-4133-aa2a-29498f066632	TypeError: rolesArray.include is not a function
+20260522	20:08:52	32719886-adf3-48fd-9d8e-fdc0098f1864	TypeError: rolesArray.include is not a function
+20260522	20:08:53	89f02fc4-3434-476a-b948-95ae9696b0ec	TypeError: rolesArray.include is not a function
+20260522	20:08:53	2bc2bf67-f4a0-466c-be1e-dd55ad138669	TypeError: rolesArray.include is not a function
+20260523	10:30:39	8f344444-73ee-438e-b4e9-00d73accfdae	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260523	10:32:44	13d049c1-09b5-4d53-af13-e503a07c3208	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260523	10:32:44	1abf3a4b-0bc4-47b1-b5a5-e8e75e82541f	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260523	10:32:45	2d0e774d-6ece-49f8-aa9a-25d252aa01e7	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260523	10:32:45	aed07fd1-768e-47a7-8b55-7ccdc7bb2f05	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260523	10:32:45	e8fadef5-653d-4e25-8a86-31ee72491705	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260523	10:32:45	fadfa9ce-b02a-4715-af2f-a2220175ebc6	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260523	10:32:45	51c62413-a07c-4223-8965-61e805765806	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260523	10:32:45	96890079-d598-4c6d-a7c5-99ae42d38a67	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260523	10:32:46	34bdf7fe-7b94-4156-8e17-64c83a2bc885	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260523	10:32:46	05ae17e3-63b6-445a-b525-7eb4d02d62ab	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260523	10:32:46	e0a5b731-0fab-4fc1-8b51-dbd2aba1b684	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260523	10:32:46	708dfc1f-033a-4ffd-a4f0-80dfd1d3d1c6	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260523	10:32:46	846ff61f-8c51-4a07-829e-46c3a4a462d4	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260523	10:32:47	8a865ee3-2382-4346-a7eb-68c67cea7e6a	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260523	10:32:47	91fc9692-8d02-435f-93f8-0457f6ee8ce1	SyntaxError: Unexpected token '"', "#" is not valid JSON
+20260523	10:32:47	b38ee3d3-2505-4c38-9cec-3e3082f173b2	SyntaxError: Unexpected token '"', "#" is not valid JSON
